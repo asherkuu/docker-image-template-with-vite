@@ -7,7 +7,7 @@
         "build": "vite build",
         "preview": "vite preview --host 0.0.0.0"
     },
-    "devDependencies": {
+    "dependencies": {
         "autoprefixer": "^10.4.7",
         "postcss": "^8.4.14",
         "prettier": "^2.8.0",
